@@ -1,2 +1,1 @@
-# datascience
-journey towards data science
+basic ml algorithm 
