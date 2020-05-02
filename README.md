@@ -1,1 +1,1 @@
-Some Basic ML Algorithms.
+## Classic Machine Learning Algorithms
